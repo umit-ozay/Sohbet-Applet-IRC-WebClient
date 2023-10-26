@@ -1,2 +1,3 @@
 # Sohbet-Applet-IRC-WebClient
-Chat applet irc web client
+
+Irc sohbet sistemleri için socket, express, node.js tabanlı web applet chat başlangıcı.
